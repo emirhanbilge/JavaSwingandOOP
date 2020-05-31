@@ -1,0 +1,4 @@
+aaa bbb Türkiye izmir nnn 035 001 535 266 temizlik
+ccc ddd Türkiye ankara rrr 006 001 535 125 odaservis
+eee fff Türkiye balıkesir ttt 010 001 535 565 spa
+ggg hhh Türkiye aydın mmm 009 001 535 545 temizlik
